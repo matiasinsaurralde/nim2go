@@ -5,6 +5,8 @@
 
 An experimental transpiler for [Nim](http://nim-lang.org/), targeting [Go](https://golang.org/) and the Go compiler.
 
+[![asciicast](https://asciinema.org/a/82033.png)](https://asciinema.org/a/82033)
+
 ## License
 
 [MIT](LICENSE)
